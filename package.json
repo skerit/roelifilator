@@ -1,0 +1,9 @@
+{
+	"name": "roelifilator",
+	"description": "A very custom script for Roel Van Gils",
+	"version": "0.1.0",
+	"main": "roelifilator.js",
+	"dependencies": {
+		"protoblast": "~0.3.1"
+	}
+}

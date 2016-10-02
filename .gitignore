@@ -1,0 +1,14 @@
+# Ignore IDE specific files
+*.komodo*
+*.sublime*
+.idea/
+
+# Ignore special files
+.DS_Store
+.fuse*
+._*
+*.bin
+
+# Ignore node modules
+/node_modules/
+files/
